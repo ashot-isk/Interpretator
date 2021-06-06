@@ -1,0 +1,13 @@
+this language is written for the Japanese 
+
+seisu = int 
+daburu = double 
+sutor = string
+buul = bool
+fairu = cout
+nyuro = cin
+totte () = for()
+moso () = if()
+write code only with spaces
+
+

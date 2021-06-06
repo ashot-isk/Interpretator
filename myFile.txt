@@ -1,0 +1,47 @@
+seisu x ;
+seisu y = 5 ;
+seisu l = 3 ;
+daburu z = 3.2 ;
+daburu t = 7.14 ;
+daburu k = 1.1 ;
+sutor str = Kon'nichiwa ;
+sutor str2 =  Sekai  ;
+sutor str3 = a ;
+buul a = 0 ;
+buul b = 1 ;
+buul c = 0 ;
+str3 = dav + str2 ;
+str3 = str + str2 ;
+fairu << str3 ;
+x = 4 ;
+c = a + b;
+x = x * y ;
+k = z * t ;
+z = t + 4.16 ;
+str3 = str2 + str ;
+
+fairu << x ;
+fairu << c ;
+fairu << k ;
+fairu << z ;
+seisu ab ;
+sutor aw = Enter ;
+sutor ac = kay ;
+ac = aw + number ;
+moso ( y >= 5  ){
+    seisu js = 15 ;
+    js = x + y ;
+    daburu kd = 3.87 ;
+    fairu << js << x ;
+    fairu << kd ;
+}
+fairu << ac ;
+nyuro >> ab ;
+totte ( seisu i = 10 ; i > ab ; -- i )
+{  
+    seisu bk = 4 ;
+    bk = 10 ;
+    fairu << bk ;
+}
+
+
